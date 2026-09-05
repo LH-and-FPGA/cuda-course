@@ -4,7 +4,7 @@
             "name": "CUDA",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/han/miniconda3/envs/cuda/targets/x86_64-linux/include"
+                "/usr/local/cuda/include"
             ],
             "defines": [
                 "__CUDACC__"
